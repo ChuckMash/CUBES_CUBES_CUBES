@@ -5,7 +5,7 @@ Makes Cubes and Cubes and Whatnot with Python & OpenCV
 
 -------
 
-[![CUBES CUBES CUBES](https://img.youtube.com/vi/tT2zzCXfYpg/0.jpg)](https://www.youtube.com/watch?v=tT2zzCXfYpg)
+[![CUBES CUBES CUBES](https://img.youtube.com/vi/tT2zzCXfYpg/0.jpg)](https://www.youtube.com/watch?v=tT2zzCXfYpg&list=PLfyiAV04qnBxo5FfcB6flN_M-Pueg9vK4)
 
 [Demonstration](https://www.youtube.com/watch?v=tT2zzCXfYpg)
 
