@@ -12,6 +12,10 @@ class cube:
     self.lines.extend([[0,2],[1,3],[4,6],[5,7]]) # sides
     self.lines.extend([[0,1],[0,4],[1,5],[4,5]]) # bottoms
     self.lines.extend([[2,3],[2,6],[3,7],[6,7]]) # tops
+    #self.lines.extend([[0,3],[0,6],[1,2],[1,7],[2,4],[3,5],[4,7],[5,6]]) # side brace
+    #self.lines.extend([[0,7],[1,6],[2,5],[3,4]]) # cross brace
+    #self.lines.extend([[0,5],[1,4]]) # bottom brace
+    #self.lines.extend([[2,7],[3,6]]) # top brace
 
 
 
